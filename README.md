@@ -42,4 +42,3 @@ Here you’ll find a showcase of my interests, skills, and projects. I’m passi
 Thank you for visiting my profile!  
 ⭐️ Feel free to check out my repositories and connect with me!
 
-```
