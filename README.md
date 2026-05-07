@@ -26,7 +26,7 @@ Here you’ll find a showcase of my interests, skills, and projects. I’m passi
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| [Infinity Chat](https://github.com/ManOfTheMask/InfinityChat) | Infinity Chat is a client-based chat application where all encryption is performed in the browser. The platform stores only encrypted messages and public keys—your private keys remain secure and are never saved. | Node, Tailwind, Openpgp.js, Express, Express-handlebars, |
+| [KeepQuiet](https://github.com/ManOfTheMask/KeepQuiet) | KeepQuiet is a client-based chat application where all encryption is performed in the browser. The platform stores only encrypted messages and public keys—your private keys remain secure and are never saved. | Node, Tailwind, Openpgp.js, Express, Express-handlebars, |
 | [Pong](https://github.com/ManOfTheMask/PongV2.0) | Pong remake in pygame | pygame |
 | [Snake](https://github.com/ManOfTheMask/Snake) | Snake remake in pygame | pygame |
 
