@@ -27,8 +27,7 @@ Here you’ll find a showcase of my interests, skills, and projects. I’m passi
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
 | [KeepQuiet](https://github.com/ManOfTheMask/KeepQuiet) | KeepQuiet is a client-based chat application where all encryption is performed in the browser. The platform stores only encrypted messages and public keys—your private keys remain secure and are never saved. | Node, Tailwind, Openpgp.js, Express, Express-handlebars, |
-| [Pong](https://github.com/ManOfTheMask/PongV2.0) | Pong remake in pygame | pygame |
-| [Snake](https://github.com/ManOfTheMask/Snake) | Snake remake in pygame | pygame |
+| [Doctor's Corner](https://github.com/ManOfTheMask/doctors-corner) | Developer blog where I share my developer journey and other tech topics. | SvelteKit, TypeScript, Tailwind CSS |
 
 *Explore more in my pinned repositories!*
 
@@ -41,4 +40,3 @@ Here you’ll find a showcase of my interests, skills, and projects. I’m passi
 
 Thank you for visiting my profile!  
 ⭐️ Feel free to check out my repositories and connect with me!
-
