@@ -31,11 +31,6 @@ Here you’ll find a showcase of my interests, skills, and projects. I’m passi
 
 *Explore more in my pinned repositories!*
 
-
-## 📊 GitHub Stats
-
-![ManOfTheMask's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManOfTheMask&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![ManOfTheMask's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManOfTheMask&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
 Thank you for visiting my profile!  
